@@ -22,8 +22,7 @@ Enthusiastic and results-driven individual with a strong passion for Machine Lea
 | **Machine Learning**| Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Computer Vision|
 | **Libraries**       | TensorFlow, Keras, PyTorch, scikit-learn, pandas, NumPy, matplotlib, OpenCV, mediapipe, NLTK  |
 | **Data Analysis**   | Data Mining, Data Science, Data Analysis                                                     |
-| **Tools & Platforms** | Streamlit, VS Code, Terminal, Microsoft Excel, Power BI, Google Colab                         |
-| **Soft Skills**     | Leadership, Research & Development, Problem Solving, Public Relations, Quick Learner, Initiative, Collaborative |                                        |
+| **Tools & Platforms** | Streamlit, VS Code, Terminal, Microsoft Excel, Power BI, Google Colab                         |                                   |
 
 ---
 
