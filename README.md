@@ -55,17 +55,7 @@ Enthusiastic and results-driven individual passionate about Machine Learning, Da
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryanv-0908&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanv-0908&theme=onestar&no-frame=true&row=1" alt="Trophy" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanv-0908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=37B7F7&background=00000000&center=true&multiline=true&width=435&lines=Welcome+to+Aryan's+GitHub!;Let’s+code,+create,+and+innovate." alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryanv-0908/Aryanv-0908/main/assets/wave-animation.gif" width="40" />
 </p>
 
 ---
