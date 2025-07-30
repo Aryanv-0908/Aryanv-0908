@@ -1,32 +1,32 @@
-## Hi there, I am Aryan Verma 👋
+# Hi there, I am Aryan Verma 👋
 
-## Contact Information
+## 📬 Contact Information
 - **Location:** New Delhi, India  
 - **Phone:** (+91) 9315739701  
-- **Email:** aryanv090803@gmail.com  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aryanv090803)  
+- **Email:** [aryanv090803@gmail.com](mailto:aryanv090803@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/aryanv090803](https://www.linkedin.com/in/aryanv090803)  
 - **GitHub:** [github.com/Aryanv-0908](https://github.com/Aryanv-0908)   
 
 ---
 
-## Objective
-Enthusiastic and results-driven individual with a strong passion for Machine Learning, Data Science, and programming. Skilled in building data-driven solutions and deploying intelligent systems using modern tools and frameworks. Adept at analyzing complex datasets, developing predictive models, and writing clean, efficient code to solve real-world problems. Currently pursuing a Bachelor’s degree in Artificial Intelligence and Machine Learning with hands-on internship and project experience, seeking opportunities to apply and expand my technical expertise in innovative environments.
+## 🎯 Objective
+Enthusiastic and results-driven individual passionate about Machine Learning, Data Science, and programming. Skilled in building data-driven solutions and deploying intelligent systems using modern tools and frameworks. Adept at analyzing complex datasets, developing predictive models, and writing clean, efficient code to solve real-world problems. Currently pursuing a Bachelor’s degree in Artificial Intelligence and Machine Learning with hands-on internship and project experience, seeking opportunities to apply and expand my technical expertise in innovative environments.
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Category            | Skills & Tools                                                                                 |
 |---------------------|----------------------------------------------------------------------------------------------|
 | **Languages**       | Advanced Python, C, SQL, Java                                                                |
-| **Machine Learning**| Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Computer Vision|
+| **Machine Learning**| Machine Learning, Deep Learning, Neural Networks, NLP, Computer Vision                        |
 | **Libraries**       | TensorFlow, Keras, PyTorch, scikit-learn, pandas, NumPy, matplotlib, OpenCV, mediapipe, NLTK  |
 | **Data Analysis**   | Data Mining, Data Science, Data Analysis                                                     |
 | **Tools & Platforms** | Streamlit, VS Code, Terminal, Microsoft Excel, Power BI, Google Colab                         |                                   |
 
 ---
 
-## Education
+## 🎓 Education
 
 - **Bachelor of Technology in Artificial Intelligence and Machine Learning**  
   JIMS Engineering Management Technical Campus, Greater Noida  
@@ -39,45 +39,40 @@ Enthusiastic and results-driven individual with a strong passion for Machine Lea
 
 ---
 
-## Experience
-
-- **Machine Learning Intern**  
-  Prodigy InfoTech | Aug 2024 - Sept 2024 (1 month)  
-  Gained practical experience in building and deploying ML models.
-
-- **Web Development Intern**  
-  CodSoft | Apr 2024 - May 2024 (1 month)  
-  Worked on web development projects contributing to front-end and back-end tasks.
-
-- **Participant - Machine Learning & Data Science Program**  
-  GeeksforGeeks | Jun 2024 - Jun 2025 
-  Engaged in courses and projects focused on ML and Data Science fundamentals.
-
----
-
-## Projects
-
-### News Prediction  
-[GitHub Repository](https://github.com/Aryanv-0908/News-Prediction)  
-- Built a machine learning model using Multinomial Naive Bayes to distinguish fake news from real news.  
-- Processed and analyzed a large dataset of news articles labeled true or fake.
-
-### Customer Segmentation  
-[GitHub Repository](https://github.com/Aryanv-0908/Prodigy/tree/main/Prodigy_ML_02)  
-- Applied K-Means Clustering for segmenting retail customers based on purchase history.  
-- Identified clusters representing loyal customers, frequent buyers, and potential churners to aid targeted marketing.
-
----
-
-## Leadership & Achievements
+## 🏆 Leadership & Achievements
 
 - Achieved 1st position as subject topper in Computer Organization & Architecture (5th semester).  
 - Secured 2nd place in BitWARS Hackathon (2025) developing an innovative AI/ML solution in a competitive environment.  
-- Content Head at Cultural Society (Swaroop): Led content strategy and event promotion.  
+- Content Head at Cultural Society (Swaroop): Led content strategy and event promotion.
 
 ---
 
-Feel free to connect with me via email or LinkedIn for collaboration, opportunities, or discussions about Machine Learning, Data Science, and Software Development projects.
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanv-0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Aryan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryanv-0908&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanv-0908&theme=onestar&no-frame=true&row=1" alt="Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanv-0908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=37B7F7&background=00000000&center=true&multiline=true&width=435&lines=Welcome+to+Aryan's+GitHub!;Let’s+code,+create,+and+innovate." alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryanv-0908/Aryanv-0908/main/assets/wave-animation.gif" width="40" />
+</p>
+
+---
+
+*Feel free to connect with me via email or LinkedIn for collaboration, opportunities, or discussions about Machine Learning, Data Science, and Software Development projects.*
+
+---
 
 ---
 
