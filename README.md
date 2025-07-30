@@ -1,4 +1,4 @@
-# Hi there, I am Aryan Verma 👋
+# Hi there, I am Aryan 👋
 
 ## 📬 Contact Information
 - **Location:** New Delhi, India  
