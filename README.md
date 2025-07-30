@@ -54,8 +54,11 @@ Enthusiastic and results-driven individual passionate about Machine Learning, Da
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryanv-0908&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanv-0908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryanv-0908&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
