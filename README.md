@@ -1,85 +1,159 @@
-# Hi there, I am Aryan 👋
+<div align="center">
 
-## 📬 Contact Information
-- **Location:** New Delhi, India  
-- **Phone:** (+91) 9315739701  
-- **Email:** [aryanv090803@gmail.com](mailto:aryanv090803@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/aryanv090803](https://www.linkedin.com/in/aryanv090803)  
-- **GitHub:** [github.com/Aryanv-0908](https://github.com/Aryanv-0908)   
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Power%20Platform%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
 
----
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Bridging+AI+%2B+real-world+impact+%F0%9F%9A%80;Currently+@+Interra+IT+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-## 🎯 Objective
-Enthusiastic and results-driven individual passionate about Machine Learning, Data Science, and programming. Skilled in building data-driven solutions and deploying intelligent systems using modern tools and frameworks. Adept at analyzing complex datasets, developing predictive models, and writing clean, efficient code to solve real-world problems. Currently pursuing a Bachelor’s degree in Artificial Intelligence and Machine Learning with hands-on internship and project experience, seeking opportunities to apply and expand my technical expertise in innovative environments.
+<br/>
 
----
+<!-- Social badges -->
+[![Gmail](https://img.shields.io/badge/Gmail-aryanv090803%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanv090803@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Aryanv--0908-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanv-0908)
+[![Location](https://img.shields.io/badge/📍-Delhi%2C%20India-302b63?style=for-the-badge)](https://maps.google.com/?q=Delhi,India)
 
-## 🛠️ Technical Skills
+<br/>
 
-| Category            | Skills & Tools                                                                                 |
-|---------------------|----------------------------------------------------------------------------------------------|
-| **Languages**       | Advanced Python, C, SQL, Java                                                                |
-| **Machine Learning**| Machine Learning, Deep Learning, Neural Networks, NLP, Computer Vision                        |
-| **Libraries**       | TensorFlow, Keras, PyTorch, scikit-learn, pandas, NumPy, matplotlib, OpenCV, mediapipe, NLTK  |
-| **Data Analysis**   | Data Mining, Data Science, Data Analysis                                                     |
-| **Tools & Platforms** | Streamlit, VS Code, Terminal, Microsoft Excel, Power BI, Google Colab                         |                                   |
+</div>
 
 ---
 
-## 🎓 Education
+## 🧠 About Me
 
-- **Bachelor of Technology in Artificial Intelligence and Machine Learning**  
-  JIMS Engineering Management Technical Campus, Greater Noida  
-  2022 - 2026 (Pursuing)  
-  Current Percentage: 78%
+```python
+aryan = {
+    "name"       : "Aryan Verma",
+    "role"       : ["AI/ML Engineer", "Power Platform Developer", "Full-Stack Developer"],
+    "education"  : "B.Tech in AI & ML @ JIMS EMTC (2022–2026)",
+    "currently"  : "Power Platform Intern @ Interra IT, Noida",
+    "building"   : "Neuroplay — a cognitive ML platform for stress & behavior analysis",
+    "passionate" : ["Machine Learning", "Deep Learning", "Data Storytelling", "NLP"],
+    "languages"  : ["English 🇬🇧", "Hindi 🇮🇳", "French 🇫🇷 (learning)"],
+    "fun_fact"   : "I ranked 1st in Computer Organization & Architecture 🏆"
+}
+```
 
-- **Higher Secondary Education**  
-  St. Michael's Sr. Sec. School, New Delhi  
-  Class 10: 78.2% | Class 12: 84.2%
+<br/>
 
----
-
-## 🏆 Leadership & Achievements
-
-- Achieved 1st position as subject topper in Computer Organization & Architecture (5th semester).  
-- Secured 2nd place in BitWARS Hackathon (2025) developing an innovative AI/ML solution in a competitive environment.  
-- Content Head at Cultural Society (Swaroop): Led content strategy and event promotion.
-
----
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanv-0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Aryan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanv-0908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryanv-0908&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+> 💭 *"I believe the most powerful technology is the kind that understands people — and I'm here to build exactly that."*
 
 ---
 
-*Feel free to connect with me via email or LinkedIn for collaboration, opportunities, or discussions about Machine Learning, Data Science, and Software Development projects.*
+## 🚀 Aspiration
+
+<div align="center">
+
+| 🎯 Short-Term | 🌍 Long-Term |
+|:---|:---|
+| Master production-grade ML pipelines | Build AI systems that solve real societal problems |
+| Deepen expertise in NLP & LLMs | Lead cross-functional AI/data teams |
+| Contribute to open-source AI projects | Create inclusive tech for underrepresented communities |
+| Earn Azure AI / AWS ML certifications | Found or contribute to an AI-driven startup |
+
+</div>
+
+I aspire to be an **AI engineer who bridges the gap between cutting-edge research and real-world impact** — whether that's through accessible tools for the deaf community (like my hackathon project *Madhyam*), intelligent business systems, or products that genuinely improve how people live and work.
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚡ Power Platform
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
-<!--
-**Aryanv-0908/Aryanv-0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Achievements
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥇 &nbsp; **Subject Topper** — Computer Organization & Architecture *(5th Semester)*
+
+🥈 &nbsp; **2nd Place — Bitwars Hackathon** — Built *Madhyam*, an AI/ML sign language translation platform for the deaf & mute community
+
+✍️ &nbsp; **Content Head** — Swaroop Cultural Society, leading event promotion strategy across campus
+
+📜 &nbsp; **GeeksforGeeks Machine Learning Certification**
+
+⚙️ &nbsp; **Power Apps, Power Automate & SharePoint** — Certification *(Ongoing)*
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanv-0908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanv-0908&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanv-0908&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```
+▸ Large Language Models (LLMs) & Prompt Engineering
+▸ LangChain for building AI agents & pipelines
+▸ Microsoft Azure AI & Power Platform advanced certifications
+▸ Time-series deep learning (Transformers for forecasting)
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on **AI/ML research**, **open-source projects**, or anything that pushes the boundaries of what technology can do for people. Feel free to reach out!
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-aryanv090803%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanv090803@gmail.com)
+[![GitHub Follow](https://img.shields.io/github/followers/Aryanv-0908?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=181717)](https://github.com/Aryanv-0908)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+</div>
