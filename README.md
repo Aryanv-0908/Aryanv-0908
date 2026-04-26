@@ -40,9 +40,8 @@
       <ul>
         <li>🔭 Building <strong>Neuroplay</strong> — a cognitive ML platform for stress & behavior analysis</li>
         <li>🧠 Passionate about <strong>ML · Deep Learning · NLP · Data Storytelling</strong></li>
-        <li>🌐 Roles: <strong>AI/ML Engineer · Power Platform Dev · Full-Stack Builder</strong></li>
+        <li>🌐 Roles: <strong>AI/ML Engineer · Power Platform Dev </strong></li>
         <li>🏆 Ranked <strong>1st (Subject Topper)</strong> in Computer Organization & Architecture</li>
-        <li>🗣️ Speak: <strong>English</strong> · <strong>Hindi</strong> · <strong>French</strong> <em>(learning)</em></li>
       </ul>
     </td>
   </tr>
