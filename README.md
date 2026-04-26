@@ -1,24 +1,18 @@
 <div align="center">
-
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Power%20Platform%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Power%20Platform%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Bridging+AI+%2B+real-world+impact+%F0%9F%9A%80;Currently+@+Interra+IT+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Bridging+AI+%2B+real-world+impact+%F0%9F%9A%80;Currently+@+Interra+IT+%E2%9C%A8;Power+Platform+%7C+AI+%7C+ML+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <!-- Social badges -->
 [![Gmail](https://img.shields.io/badge/Gmail-aryanv090803%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanv090803@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aryanv--0908-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanv-0908)
 [![Location](https://img.shields.io/badge/📍-Delhi%2C%20India-302b63?style=for-the-badge)](https://maps.google.com/?q=Delhi,India)
-
+ 
 <br/>
-
 </div>
-
 ---
 
 ## 🧠 About Me
