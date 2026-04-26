@@ -23,18 +23,30 @@
 
 ## 🧠 About Me
 
-```python
-aryan = {
-    "name"       : "Aryan Verma",
-    "role"       : ["AI/ML Engineer", "Power Platform Developer", "Full-Stack Developer"],
-    "education"  : "B.Tech in AI & ML @ JIMS EMTC (2022–2026)",
-    "currently"  : "Power Platform Intern @ Interra IT, Noida",
-    "building"   : "Neuroplay — a cognitive ML platform for stress & behavior analysis",
-    "passionate" : ["Machine Learning", "Deep Learning", "Data Storytelling", "NLP"],
-    "languages"  : ["English 🇬🇧", "Hindi 🇮🇳", "French 🇫🇷 (learning)"],
-    "fun_fact"   : "I ranked 1st in Computer Organization & Architecture 🏆"
-}
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 Who I Am</h3>
+      <p>
+        I'm <strong>Aryan Verma</strong>, a final-year <strong>B.Tech student in AI & Machine Learning</strong> from JIMS EMTC, Delhi (Class of 2026, 78%).
+        Currently working as a <strong>Power Platform Intern at Interra IT, Noida</strong>, where I build end-to-end business automation solutions.
+      </p>
+      <p>
+        I thrive at the intersection of <strong>intelligent systems, data, and real-world impact</strong> — whether that's training deep learning models, building dashboards, or shipping full-stack apps.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Quick Facts</h3>
+      <ul>
+        <li>🔭 Building <strong>Neuroplay</strong> — a cognitive ML platform for stress & behavior analysis</li>
+        <li>🧠 Passionate about <strong>ML · Deep Learning · NLP · Data Storytelling</strong></li>
+        <li>🌐 Roles: <strong>AI/ML Engineer · Power Platform Dev · Full-Stack Builder</strong></li>
+        <li>🏆 Ranked <strong>1st (Subject Topper)</strong> in Computer Organization & Architecture</li>
+        <li>🗣️ Speak: <strong>English</strong> · <strong>Hindi</strong> · <strong>French</strong> <em>(learning)</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
