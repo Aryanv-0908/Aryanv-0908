@@ -41,8 +41,6 @@
         <li>🔭 Building <strong>Neuroplay</strong> — a cognitive ML platform for stress & behavior analysis</li>
         <li>🧠 Passionate about <strong>ML · Deep Learning · NLP · Data Storytelling</strong></li>
         <li>🌐 Roles: <strong>AI/ML Engineer · Power Platform Developer</strong></li>
-        <li>🏆 Ranked <strong>1st (Subject Topper)</strong> in Computer Organization & Architecture</li>
-        <li>🗣️ Speak: <strong>English</strong> · <strong>Hindi</strong> · <strong>French</strong> <em>(learning)</em></li>
       </ul>
     </td>
   </tr>
@@ -98,25 +96,7 @@ I aspire to be an **AI engineer who bridges the gap between cutting-edge researc
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-🥇 &nbsp; **Subject Topper** — Computer Organization & Architecture *(5th Semester)*
-
-🥈 &nbsp; **2nd Place — Bitwars Hackathon** — Built *Madhyam*, an AI/ML sign language translation platform for the deaf & mute community
-
-✍️ &nbsp; **Content Head** — Swaroop Cultural Society, leading event promotion strategy across campus
-
-📜 &nbsp; **GeeksforGeeks Machine Learning Certification**
-
-⚙️ &nbsp; **Power Apps, Power Automate & SharePoint** — Certification *(Ongoing)*
-
-</div>
-
----
 
 ## 📈 GitHub Stats
 
