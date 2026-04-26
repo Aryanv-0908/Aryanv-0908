@@ -1,18 +1,24 @@
 <div align="center">
+
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Power%20Platform%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Bridging+AI+%2B+real-world+impact+%F0%9F%9A%80;Currently+@+Interra+IT+%E2%9C%A8;Power+Platform+%7C+AI+%7C+ML+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
+
 <br/>
+
 <!-- Social badges -->
 [![Gmail](https://img.shields.io/badge/Gmail-aryanv090803%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanv090803@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aryanv--0908-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanv-0908)
 [![Location](https://img.shields.io/badge/📍-Delhi%2C%20India-302b63?style=for-the-badge)](https://maps.google.com/?q=Delhi,India)
- 
+
 <br/>
+
 </div>
+
 ---
 
 ## 🧠 About Me
@@ -26,7 +32,7 @@
         Currently working as a <strong>Power Platform Intern at Interra IT, Noida</strong>, where I build end-to-end business automation solutions.
       </p>
       <p>
-        I thrive at the intersection of <strong>intelligent systems, data, and real-world impact</strong> — whether that's training deep learning models, building dashboards, or shipping full-stack apps.
+        I thrive at the intersection of <strong>intelligent systems, data, and real-world impact</strong> — whether that's training deep learning models, building dashboards, or crafting data-driven applications.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -34,13 +40,13 @@
       <ul>
         <li>🔭 Building <strong>Neuroplay</strong> — a cognitive ML platform for stress & behavior analysis</li>
         <li>🧠 Passionate about <strong>ML · Deep Learning · NLP · Data Storytelling</strong></li>
-        <li>🌐 Roles: <strong>AI/ML Engineer · Power Platform Dev </strong></li>
+        <li>🌐 Roles: <strong>AI/ML Engineer · Power Platform Developer</strong></li>
+        <li>🏆 Ranked <strong>1st (Subject Topper)</strong> in Computer Organization & Architecture</li>
+        <li>🗣️ Speak: <strong>English</strong> · <strong>Hindi</strong> · <strong>French</strong> <em>(learning)</em></li>
       </ul>
     </td>
   </tr>
 </table>
-
-<br/>
 
 > 💭 *"I believe the most powerful technology is the kind that understands people — and I'm here to build exactly that."*
 
@@ -79,27 +85,38 @@ I aspire to be an **AI engineer who bridges the gap between cutting-edge researc
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ### ⚡ Power Platform
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🔧 Tools & DevOps
+### 🔧 Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
+## 🏆 Achievements
+
+<div align="center">
+
+🥇 &nbsp; **Subject Topper** — Computer Organization & Architecture *(5th Semester)*
+
+🥈 &nbsp; **2nd Place — Bitwars Hackathon** — Built *Madhyam*, an AI/ML sign language translation platform for the deaf & mute community
+
+✍️ &nbsp; **Content Head** — Swaroop Cultural Society, leading event promotion strategy across campus
+
+📜 &nbsp; **GeeksforGeeks Machine Learning Certification**
+
+⚙️ &nbsp; **Power Apps, Power Automate & SharePoint** — Certification *(Ongoing)*
+
+</div>
+
+---
 
 ## 📈 GitHub Stats
 
